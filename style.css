@@ -8,13 +8,7 @@ body {
   transform: scaleX(1);
   background-color: whitesmoke;
 }
-.dark-mode {
-  background-color: black;
-  color: white;
-  transition: 3s;
-  transform-origin: left;
-  transform: scaleX(1);
-}
+
 #game {
   width: 1000px;
   height: 520px;
