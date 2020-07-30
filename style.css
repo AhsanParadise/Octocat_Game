@@ -6,7 +6,7 @@ body {
   transition: 5s;
   transform-origin: right;
   transform: scaleX(1);
-  background-color: whitesmoke;
+  background-image:url(img/geo.png);
 }
 
 #game {
