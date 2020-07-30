@@ -16,8 +16,6 @@ function startGame() {
 function jump() {
   if (character.classList != "animate") {
     character.classList.add("animate");
-    var element = document.body;
-    element.classList.toggle("dark-mode");
     var music = new Audio();
     music.src = "sound/pop.mp3";
     music.play();
