@@ -61,4 +61,4 @@ var checkDead = setInterval(() => {
     scoreDiv.innerHTML += "<p>" + "Score:" + scorePer + "</p>";
   }
 }, 10);
-// GOOD LUCK++++++
+// GOOD LUCK+++++++
