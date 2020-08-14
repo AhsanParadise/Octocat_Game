@@ -3,4 +3,4 @@ This Octocat game is weird and funny. You’d love to play it twice. You can eas
 
 ![alt text](https://github.com/AhsanParadise/Octocat_Game/blob/master/img/octocat.gif?raw=true)
 
-+++++++++++
+++++++++++++
