@@ -5,7 +5,7 @@ This Octocat game is weird and funny. You’d love to play it twice. You can eas
     <img src="https://img.shields.io/badge/Version-1.0-blue.svg?longCache=true&style=flat-square"
       alt="1.0" />
     <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-July 3, 2020-orange.svg?longCache=true&style=flat-square"
+    <img src="https://img.shields.io/badge/Updated-July 30, 2020-orange.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
   <!-- Status -->
     <img src="https://img.shields.io/badge/Status-Active-green.svg?longCache=true&style=flat-square"
